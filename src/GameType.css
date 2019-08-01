@@ -1,0 +1,13 @@
+.Component-GameType-List{
+    position: relative;
+    width:55%;
+    text-align: right;
+    padding-bottom: 30px;
+    
+}
+
+.Component-GameType-List button{
+    margin-left: 140px;
+    font-size: 40px;
+
+}

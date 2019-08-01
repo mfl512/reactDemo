@@ -1,0 +1,36 @@
+.component-search{
+    position: relative;
+    width:100%;
+    text-align: center;
+}
+
+.component-search input{
+    position: relative;
+    width: 40%;
+    height:80px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #cfb287;
+}
+.component-search>button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: -70px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.component-search span{
+    position: relative;
+    margin-left: 50px;
+}
+.component-search span button{
+    position: relative;
+    font-size: 1rem;
+}
+
+#component-tips{
+    color: black;
+}

@@ -1,0 +1,48 @@
+.component-letter-item{
+    position: absolute;
+}
+
+.component-letter-anima{
+    animation:mymove 12s infinite;
+    -webkit-animation:mymove 12s infinite; 
+    /* animation-iteration-count:1;
+    -webkit-animation-iteration-count:1; */
+}
+
+.component-letter-item img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.component-letter-item span{
+    background-color: #83e2be;
+    border-radius: 90%;
+
+}
+
+.move1{    animation-timing-function:linear;}
+.move2{    animation-timing-function:ease;}
+.move3{    animation-timing-function:ease-in;}
+.move4{    animation-timing-function:ease-out;}
+.move5{    animation-timing-function:ease-in-out;}
+
+
+/* Safari and Chrome: */
+.move1{    -webkit-animation-timing-function:linear;}
+.move2{    -webkit-animation-timing-function:ease;}
+.move3{    -webkit-animation-timing-function:ease-in;}
+.move4{    -webkit-animation-timing-function:ease-out;}
+.move5{    -webkit-animation-timing-function:ease-in-out;}
+
+
+@keyframes mymove
+{
+	from {top:400px;}
+	to {top:680px;}
+}
+
+@-webkit-keyframes mymove /* Safari and Chrome */
+{
+	from {top:400px;}
+	to {top:680px;}
+}

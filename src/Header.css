@@ -1,0 +1,12 @@
+.component-header{
+    position: relative;
+    text-align: center;
+    height:100px;
+}
+
+
+.component-header img {
+    position: relative;
+    top: 6px;
+    padding: 0 14px;
+  }

@@ -1,0 +1,253 @@
+{
+  "letterArray": [
+    {
+      "title": "z",
+      "symbol": "🇿",
+      "keywords": "symbol letter z"
+    },
+    {
+      "title": "y",
+      "symbol": "🇾",
+      "keywords": "symbol letter y"
+    },
+    {
+      "title": "x",
+      "symbol": "🇽",
+      "keywords": "symbol letter x"
+    },
+    {
+      "title": "w",
+      "symbol": "🇼",
+      "keywords": "symbol letter w"
+    },
+    {
+      "title": "v",
+      "symbol": "🇻",
+      "keywords": "symbol letter v"
+    },
+    {
+      "title": "u",
+      "symbol": "🇺",
+      "keywords": "symbol letter u"
+    },
+    {
+      "title": "t",
+      "symbol": "🇹",
+      "keywords": "symbol letter t"
+    },
+    {
+      "title": "s",
+      "symbol": "🇸",
+      "keywords": "symbol letter s"
+    },
+    {
+      "title": "r",
+      "symbol": "🇷",
+      "keywords": "symbol letter r"
+    },
+    {
+      "title": "q",
+      "symbol": "🇶",
+      "keywords": "symbol letter q"
+    },
+    {
+      "title": "p",
+      "symbol": "🇵",
+      "keywords": "symbol letter p"
+    },
+    {
+      "title": "o",
+      "symbol": "🇴",
+      "keywords": "symbol letter o"
+    },
+    {
+      "title": "n",
+      "symbol": "🇳",
+      "keywords": "symbol letter n"
+    },
+    {
+      "title": "m",
+      "symbol": "🇲",
+      "keywords": "symbol letter m"
+    },
+    {
+      "title": "l",
+      "symbol": "🇱",
+      "keywords": "symbol letter l"
+    },
+    {
+      "title": "k",
+      "symbol": "🇰",
+      "keywords": "symbol letter k"
+    },
+    {
+      "title": "j",
+      "symbol": "🇯",
+      "keywords": "symbol letter j"
+    },
+    {
+      "title": "i",
+      "symbol": "🇮",
+      "keywords": "symbol letter i"
+    },
+    {
+      "title": "h",
+      "symbol": "🇭",
+      "keywords": "symbol letter h"
+    },
+    {
+      "title": "g",
+      "symbol": "🇬",
+      "keywords": "symbol letter g"
+    },
+    {
+      "title": "f",
+      "symbol": "🇫",
+      "keywords": "symbol letter f"
+    },
+    {
+      "title": "e",
+      "symbol": "🇪",
+      "keywords": "symbol letter e"
+    },
+    {
+      "title": "d",
+      "symbol": "🇩",
+      "keywords": "symbol letter d"
+    },
+    {
+      "title": "c",
+      "symbol": "🇨",
+      "keywords": "symbol letter c"
+    },
+    {
+      "title": "b",
+      "symbol": "🇧",
+      "keywords": "symbol letter b"
+    },
+    {
+      "title": "a",
+      "symbol": "🇦",
+      "keywords": "symbol letter a"
+    },
+    {}
+  ],
+  "wordList": [
+    {
+      "name": "apple",
+      "value": "苹果"
+    },
+    {
+      "name": "pear",
+      "value": "梨"
+    },
+    {
+      "name": "apricot",
+      "value": "杏"
+    },
+    {
+      "name": "peach",
+      "value": "桃"
+    },
+    {
+      "name": "grape",
+      "value": "葡萄"
+    },
+    {
+      "name": "banana",
+      "value": "香蕉"
+    },
+    {
+      "name": "pineapple",
+      "value": "菠萝"
+    },
+    {
+      "name": "plum",
+      "value": "李子"
+    },
+    {
+      "name": "watermelon",
+      "value": "西瓜"
+    },
+    {
+      "name": "orange",
+      "value": "橙"
+    },
+    {
+      "name": "lemon",
+      "value": "柠檬"
+    },
+    {
+      "name": "mango",
+      "value": "芒果"
+    },
+    {
+      "name": "strawberry",
+      "value": "草莓"
+    },
+    {
+      "name": "medlar",
+      "value": "枇杷"
+    },
+    {
+      "name": "mulberry",
+      "value": "桑椹"
+    },
+    {
+      "name": "nectarine",
+      "value": "油桃"
+    },
+    {
+      "name": "cherry",
+      "value": "樱桃"
+    },
+    {
+      "name": "pomegranate",
+      "value": "石榴"
+    },
+    {
+      "name": "fig",
+      "value": "无花果"
+    },
+    {
+      "name": "tangerine",
+      "value": "柑子"
+    },
+    {
+      "name": "persimmon",
+      "value": "柿子"
+    },
+    {
+      "name": "walnut",
+      "value": "胡桃"
+    },
+    {
+      "name": "hazelnut",
+      "value": "榛子"
+    },
+    {
+      "name": "chestnut",
+      "value": "粟"
+    },
+    {
+      "name": "currant",
+      "value": "醋粟"
+    },
+    {
+      "name": "coconut",
+      "value": "可可"
+    },
+    {
+      "name": "bilberry",
+      "value": "越桔"
+    },
+    {
+      "name": "blackberry",
+      "value": "黑莓"
+    }
+  ],
+  "gameTypeList":[
+    {"title":"study English"},
+    {"title":"stop number"}
+  ]
+}
